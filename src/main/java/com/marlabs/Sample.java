@@ -1,6 +1,5 @@
 package com.marlabs;
 
-public class Test {
-	
+public class Sample {
 
 }
